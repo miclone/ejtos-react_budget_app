@@ -11,7 +11,7 @@ import Budget from './components/Budget';
 import { AppProvider } from './context/AppContext';
 const App = () => {
     return (
-        <AppProvider> 
+        <AppProvider>  
             <div className='container'>
                 <h1 className='mt-3'>Company's Budget Allocation</h1>
                     <div className='row mt-3'>
